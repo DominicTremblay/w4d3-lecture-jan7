@@ -1,0 +1,8 @@
+{
+  "user": "labber",
+  "password": "labber",
+  "hostname": "localhost",
+  "database": "w4d3db",
+  "port": 5432,
+  "ssl": true
+}
